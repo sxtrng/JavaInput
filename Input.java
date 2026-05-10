@@ -12,7 +12,8 @@ public class Input {
 
         System.out.printf("You Entered: %d\n", number);
 
-
+        scanner.close();
+        
     }
 
 }
